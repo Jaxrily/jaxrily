@@ -1,4 +1,4 @@
-# shell-repo
+# jaxrily
 some web3 shell
 
 # How to use?
